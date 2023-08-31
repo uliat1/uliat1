@@ -1,8 +1,16 @@
 ## <div align="center">HI, I'm Uliana, a developer 🏃‍♀️</div>  
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25%"/>
 </div>
+
+-  I’m studying at Moscow Automobile and Road Construction State Technical University (MADI)
+  
+-  I completed the "React.Development of Complex Front-end Applications" course at HTML Academy
+  
+<br/>  
+
+---
 
 ### :woman_technologist:  My Skill Set   :
 <div>
