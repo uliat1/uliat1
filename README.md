@@ -1,4 +1,4 @@
-## <div align="center">HI, I'm Uliana, a developer 🏃‍♀️</div>  
+## <div align="center">HI, I'm Uliana, a beginner developer 🏃‍♀️</div>  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25%"/>
