@@ -26,8 +26,3 @@
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
 </div>
 
-## Certificates
-
-<p>
-<img width="175" alt="Certificate1" src="svg/2041971.svg" />
-</p>
